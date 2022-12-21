@@ -1,6 +1,6 @@
 /*
 
-Se desea conocer el gasto de gasolina respecto al ingreso per-capita. Para ello, se estimarán modelos MCO agrupado, MCG, Between-groups, EF y Primeras Diferencias. Los datos se extraerán de Balgati OECDcar.
+Descripción: se desea conocer el gasto de gasolina respecto al ingreso per-capita. Para ello, se estimarán modelos MCO agrupado, MCG, Between-groups, EF y Primeras Diferencias. Los datos se extraerán de Balgati OECDcar.
 
 
 * LN(Gas/Car): 	Logaritmo del consumo de gasolina por auto (lgaspcar)
